@@ -16,6 +16,7 @@ This repository is meant to be a compilation of papers published with the applic
 | Title | Year | ADS link |
 | :--- | :---: | :---: |
 | *ANNz: estimating photometric redshifts using artificial neural networks* | 2004 | https://ui.adsabs.harvard.edu/abs/2004PASP..116..345C/abstract | 
+| *Estimating Photometric Redshifts Using Support Vector Machines* | 2005 | https://ui.adsabs.harvard.edu/abs/2005PASP..117...79W/abstract | 
 
 ---
 <a name='zredshifts'></a>
